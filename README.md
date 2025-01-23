@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # desktop-app-with-electron.js
 A simple desktop application built with electron.js
 =======
-# electron_app
-
 An Electron application with React
 
 ## Recommended IDE Setup
